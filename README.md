@@ -50,3 +50,8 @@ https://www.linkedin.com/pulse/idiots-guide-cognitive-services-nigel-willson<br/
 
 LUIS(language understanding intelligent services)<br/>
 https://www.luis.ai/Help/#Overview<br/>
+
+NLP
+-----
+NLP online courses
+https://www.quora.com/Are-there-any-good-audio-video-lectures-on-Natural-Language-Processing-available-online
