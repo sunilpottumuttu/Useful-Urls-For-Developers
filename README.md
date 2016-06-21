@@ -33,3 +33,15 @@ Research Projects
 --------------------------
 Microsoft FUSE Labs<br/>
 https://developer.microsoft.com/en-us/skype/bots<br/>
+
+Analytics
+--------------------------
+Cortana Intelligence Gallery<br/>
+https://gallery.cortanaintelligence.com/browse/?r=legacy<br/>
+
+
+API
+-----
+ProgrammableWeb Mashup & API Directory
+http://www.programmableweb.com/<br/>
+
