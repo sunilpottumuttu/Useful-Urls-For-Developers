@@ -42,6 +42,11 @@ https://gallery.cortanaintelligence.com/browse/?r=legacy<br/>
 
 API
 -----
-ProgrammableWeb Mashup & API Directory
+ProgrammableWeb Mashup & API Directory<br/>
 http://www.programmableweb.com/<br/>
 
+An Idiots Guide to Cognitive Services<br/>
+https://www.linkedin.com/pulse/idiots-guide-cognitive-services-nigel-willson<br/>
+
+LUIS(language understanding intelligent services)<br/>
+https://www.luis.ai/Help/#Overview<br/>
