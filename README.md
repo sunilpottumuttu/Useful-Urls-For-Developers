@@ -13,3 +13,11 @@ http://www.codeproject.com/Articles/113169/C-As-A-Scripting-Language-In-Your-NET
 Add a Chatbot to a C# application using SIML (Synthetic Intelligence Markup Language)<br/>
 http://www.codeproject.com/Articles/866760/Add-a-Chatbot-to-a-Csharp-application-using-SIML-S<br/>
 <br/>
+Pandora Bot a chat bot<br/>
+http://www.pandorabots.com/<br/>
+<br/>
+App store for bots<br/>
+https://medium.com/@allenleein/18-best-tools-for-bot-development-eb083f5894b5#.oli8for53</br>
+<br/>
+
+
