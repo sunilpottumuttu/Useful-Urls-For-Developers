@@ -22,3 +22,14 @@ http://www.pandorabots.com/<br/>
 
 App store for bots<br/>
 https://medium.com/@allenleein/18-best-tools-for-bot-development-eb083f5894b5#.oli8for53<br/>
+
+Microsoft Bot framework<br/>
+https://dev.botframework.com/<br/>
+
+Skype Bots<br/>
+https://developer.microsoft.com/en-us/skype/bots<br/>
+
+Research Projects
+--------------------------
+Microsoft FUSE Labs<br/>
+https://developer.microsoft.com/en-us/skype/bots<br/>
