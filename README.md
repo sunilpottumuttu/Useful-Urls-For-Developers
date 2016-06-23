@@ -26,6 +26,15 @@ https://medium.com/@allenleein/18-best-tools-for-bot-development-eb083f5894b5#.o
 Microsoft Bot framework<br/>
 https://dev.botframework.com/<br/>
 
+Chatbot Tutorial<br/>
+http://www.codeproject.com/Articles/36106/Chatbot-Tutorial<br/>
+
+chatbot api<br/>
+https://developer.pandorabots.com/docs#botFiles
+
+aiml chatbot in c#<br/>
+http://ntoll.org/article/project-an-aiml-chatterbot-in-c<br/>
+
 Skype Bots<br/>
 https://developer.microsoft.com/en-us/skype/bots<br/>
 
