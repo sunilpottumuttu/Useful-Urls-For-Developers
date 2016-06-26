@@ -38,6 +38,12 @@ http://ntoll.org/article/project-an-aiml-chatterbot-in-c<br/>
 Skype Bots<br/>
 https://developer.microsoft.com/en-us/skype/bots<br/>
 
+wit ai<br/>
+https://wit.ai/docs<br/>
+
+ibm's watson<br/>
+http://www.ibm.com/developerworks/cloud/library/cl-watson-films-bluemix-app/<br/>
+
 Research Projects
 --------------------------
 Microsoft FUSE Labs<br/>
@@ -59,6 +65,10 @@ https://www.linkedin.com/pulse/idiots-guide-cognitive-services-nigel-willson<br/
 
 LUIS(language understanding intelligent services)<br/>
 https://www.luis.ai/Help/#Overview<br/>
+
+google products<br/>
+https://developers.google.com/products/<br/>
+
 
 NLP
 -----
