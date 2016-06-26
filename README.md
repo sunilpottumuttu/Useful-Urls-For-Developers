@@ -44,6 +44,9 @@ https://wit.ai/docs<br/>
 ibm's watson<br/>
 http://www.ibm.com/developerworks/cloud/library/cl-watson-films-bluemix-app/<br/>
 
+How to Build Your Own AI Assistant Using Api.ai<br/>
+https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/<br/>
+
 Research Projects
 --------------------------
 Microsoft FUSE Labs<br/>
