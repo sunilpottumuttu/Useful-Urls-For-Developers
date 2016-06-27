@@ -12,6 +12,10 @@ http://daveaglick.com/posts/compiler-platform-scripting<br/>
 C# as a Scripting Language in Your .NET Applications Using Roslyn<br/>
 http://www.codeproject.com/Articles/113169/C-As-A-Scripting-Language-In-Your-NET-Applications<br/>
 
+pattern matching<br/>
+https://github.com/danslapman/PatternMatching<br/>
+http://journal.stuffwithstuff.com/2009/05/13/ml-style-pattern-matching-in-c/<br/>
+
 Bots Development
 --------------------------
 Add a Chatbot to a C# application using SIML (Synthetic Intelligence Markup Language)<br/>
