@@ -51,6 +51,13 @@ http://www.ibm.com/developerworks/cloud/library/cl-watson-films-bluemix-app/<br/
 How to Build Your Own AI Assistant Using Api.ai<br/>
 https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/<br/>
 
+RebeccaAIML<br/>
+https://github.com/hallowname/librebecca<br/>
+http://rebecca-aiml.sourceforge.net/index.htm<br/>
+
+Program O chatbot API<br/>
+http://www.program-o.com/<br/>
+
 Research Projects
 --------------------------
 Microsoft FUSE Labs<br/>
