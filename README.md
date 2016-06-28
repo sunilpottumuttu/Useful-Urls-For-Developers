@@ -88,3 +88,76 @@ NLP
 -----
 NLP online courses
 https://www.quora.com/Are-there-any-good-audio-video-lectures-on-Natural-Language-Processing-available-online
+
+Java Open Source NLP and Text Mining tools<br/>
+http://www.searchenginecaffe.com/2007/03/java-open-source-text-mining-and.html<br/>
+
+
+Create a natural language question answering system with IBM Watson and Bluemix services<br/>
+http://www.ibm.com/developerworks/cloud/library/cl-watson-films-bluemix-app/<br/>
+
+question answering with webknox<br/>
+https://market.mashape.com/webknox/question-answering#!documentation<br/>
+
+List of 25+ Natural Language Processing APIs<br/>
+http://blog.mashape.com/list-of-25-natural-language-processing-apis/<br/>
+
+A Question Answering system built on top of the Apache UIMA framework<br/>
+https://github.com/brmson/yodaqa<br/>
+
+guide to Question Answering System using Open Source Software<br/>
+http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1257&context=etd_projects <br/>
+
+Natural Language => Knowledge Representation (NL-KR) Project Page<br/>
+http://nlp.stanford.edu/projects/nlkr/<br/>
+
+Introduction to Natural Language Processing<br/>
+http://www.mind.ilstu.edu/curriculum/protothinker/natural_language_processing.php<br/>
+
+
+How do I make a natural language processing question answering system<br/>
+https://www.quora.com/How-do-I-make-a-natural-language-processing-question-answering-system-What-software-or-toolkits-can-be-used<br/>
+
+Question-Answering System<br/>
+http://en.www.quaero.org.systranlinks.net/module_technologique/question-answering-system/ <br/>
+
+
+Quepy-Question-Answering System in python<br/>
+https://github.com/narphorium/quepy<br/>
+
+Natural Language Understanding API <br/>
+http://stackoverflow.com/questions/18369515/natural-language-understanding-api<br/>
+
+
+stanford nlp<br/>
+http://nlp.stanford.edu/software/<br/>
+
+
+START Natural Language System <br/>
+http://start.csail.mit.edu/start-system.html<br/>
+
+Question-Answering by NUS<br/>
+http://www.qanus.com/about-qanus/<br/>
+
+
+Cause of Why-Question Answering (QA) system<br/>
+https://github.com/bwbaugh/causeofwhy<br/>
+
+
+How to answer a question: a simple system<br/>
+http://www.michaelnielsen.org/ddi/how-to-answer-a-question-a-simple-system/<br/>
+
+
+QuestionCube: a framework for Question Answering<br/>
+http://ceur-ws.org/Vol-835/paper19.pdf<br/>
+
+
+How to Build Your Own AI Assistant Using Api.ai<br/>
+https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/<br/>
+
+Open Advancement of Question Answering Systems<br/>
+https://oaqa.github.io/<br/>
+
+
+What are the available APIs for NLP (Natural Language Processing)?
+https://www.quora.com/What-are-the-available-APIs-for-NLP-Natural-Language-Processing
