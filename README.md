@@ -155,9 +155,47 @@ http://ceur-ws.org/Vol-835/paper19.pdf<br/>
 How to Build Your Own AI Assistant Using Api.ai<br/>
 https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/<br/>
 
-Open Advancement of Question Answering Systems<br/>
+Open Advancement of Question Answering Systems
 https://oaqa.github.io/<br/>
 
 
-What are the available APIs for NLP (Natural Language Processing)?
-https://www.quora.com/What-are-the-available-APIs-for-NLP-Natural-Language-Processing
+What are the available APIs for NLP (Natural Language Processing)?<br/>
+https://www.quora.com/What-are-the-available-APIs-for-NLP-Natural-Language-Processing<br/>
+
+
+The Definitive Guide to Natural Language Processing<br/>
+https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/<br/>
+
+
+WikiTableQuestions: a Complex Real-World Question Understanding Dataset<br/>
+http://nlp.stanford.edu/blog/wikitablequestions-a-complex-real-world-question-understanding-dataset/<br/>
+
+StackOverflow questions understanding<br/>
+http://sergey-tihon.github.io/Stanford.NLP.Fsharp/so_questions.html<br/>
+
+
+Microsoft Disses Watson, Describes a Natural Language Processing Approach to Question Answering<br/>
+https://gofishdigital.com/microsoft-disses-watson-describes-natural-language-processing-approach-question-answering/<br/>
+
+Intro to ConceptNet<br/>
+http://www.jkurlandski.com/jkurlandskiWebsite/Index/Professional/Web/conceptNetIntro.html<br/>
+
+
+cn5apinet - ConceptNet5 API Library<br/>
+http://www.codeproject.com/Articles/301761/cn-apinet-ConceptNet-API-Library<br/>
+
+
+ConceptNet dump<br/>
+https://datahub.io/dataset/conceptnet<br/>
+
+
+ConceptNet — a practical commonsense reasoning tool-kit<br/>
+http://alumni.media.mit.edu/~hugo/publications/papers/BTTJ-ConceptNet.pdf<br/>
+
+
+How to Build a Question Answering System<br/>
+https://medium.com/@symbolicai/how-to-build-a-question-answering-system-2aeed7dfb06#.kzc4o0tp6<br/>
+
+
+RESEARCH ON INTElliGENT QUESTION-ANSWERING SYSTEM<br/>
+https://www.sri.com/sites/default/files/uploads/publications/pdf/1296.pdf<br/>
