@@ -206,3 +206,7 @@ http://www.intellexer.com/qas.html<br/>
 
 OSQA - The Open Source Q&A System<br/>
 http://www.dzonesoftware.com/products/open-source-question-answer-software<br/>
+
+
+Getting started building a conversational interface<br/>
+http://watson-dev-challenge.devpost.com/updates/4942-getting-started-building-a-conversational-interface<br/>
