@@ -199,3 +199,10 @@ https://medium.com/@symbolicai/how-to-build-a-question-answering-system-2aeed7df
 
 RESEARCH ON INTElliGENT QUESTION-ANSWERING SYSTEM<br/>
 https://www.sri.com/sites/default/files/uploads/publications/pdf/1296.pdf<br/>
+
+
+Intellexer Question-Answering System<br/>
+http://www.intellexer.com/qas.html<br/>
+
+OSQA - The Open Source Q&A System<br/>
+http://www.dzonesoftware.com/products/open-source-question-answer-software<br/>
