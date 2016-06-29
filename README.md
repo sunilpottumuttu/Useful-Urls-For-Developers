@@ -68,6 +68,8 @@ Analytics
 Cortana Intelligence Gallery<br/>
 https://gallery.cortanaintelligence.com/browse/?r=legacy<br/>
 
+Category for scripts using the Artificial Intelligence Markup Language (AIML)<br/>
+http://www.botlibre.com/browse?browse-type=Script<br/>
 
 API
 -----
