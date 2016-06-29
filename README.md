@@ -212,3 +212,7 @@ http://www.dzonesoftware.com/products/open-source-question-answer-software<br/>
 
 Getting started building a conversational interface<br/>
 http://watson-dev-challenge.devpost.com/updates/4942-getting-started-building-a-conversational-interface<br/>
+
+
+Natural Language Interface to Database using SIML<br/>
+http://www.codeproject.com/Articles/990613/Natural-Language-Interface-to-Database-using-SIML<br/>
