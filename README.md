@@ -65,6 +65,48 @@ http://meta-guide.com/software-meta-guide/100-best-ai-nlp-resources-python<br/>
 An open-source chat bot program written in Python.<br/>
 https://pypi.python.org/pypi/ChatterBot/0.4.3<br/>
 
+chatter bot collection<br/>
+http://www.chatterbotcollection.com/search.php?search=python<br/>
+
+chatter bot paper<br/>
+http://workshop.colips.org/re-wochat/documents/12_Paper_16.pdf<br/>
+
+A basic Watson chatbot<br/>
+http://www.craftworkz.co/blog/2016/05/12/A-basic-Watson-chatbot/<br/>
+
+Build a chatbot with unofficial LINE API in Python<br/>
+http://benv.io/posts/Build-a-chatbot-with-unofficial-LINE-API-in-Python/<br/>
+
+Autowikibot <br/>
+https://www.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/<br/>
+
+BeamBot<br/>
+https://github.com/RPiAwesomeness/BeamBot<br/>
+
+Developing AI chatbots<br/>
+http://www.codeproject.com/Articles/12454/Developing-AI-chatbots<br/>
+
+Chatbot Fundamentals An interactive guide to writing bots in Python<br/>
+https://apps.worldwritable.com/tutorials/chatbot/<br/>
+
+Chatbot’s documentation<br/>
+https://pythonhosted.org/Chatbot/<br/>
+
+Simple Artificial Intelligence Chatbot Made in VB.NET / C#.NET<br/>
+https://www.youtube.com/watch?v=gTsQmS8JKyY<br/>
+
+c# chat bot<br/>
+https://github.com/Kwoth/NadekoBot<br/>
+
+openpoppy a chatbot in c#<br/>
+http://openpoppy.info/Home/<br/>
+
+twitch-chat-csharpdotnet<br/>
+http://chhopsky.tv/twitch-chat-csharpdotnet/<br/>
+
+creating chatbots in C#<br/>
+http://www.manticmoo.com/jeff/nfbslam/tutorial.php.bak.final<br/>
+
 Research Projects
 --------------------------
 Microsoft FUSE Labs<br/>
