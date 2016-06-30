@@ -58,6 +58,13 @@ http://rebecca-aiml.sourceforge.net/index.htm<br/>
 Program O chatbot API<br/>
 http://www.program-o.com/<br/>
 
+
+100 Best AI & NLP Resources: Python <br/>
+http://meta-guide.com/software-meta-guide/100-best-ai-nlp-resources-python<br/>
+
+An open-source chat bot program written in Python.<br/>
+https://pypi.python.org/pypi/ChatterBot/0.4.3<br/>
+
 Research Projects
 --------------------------
 Microsoft FUSE Labs<br/>
