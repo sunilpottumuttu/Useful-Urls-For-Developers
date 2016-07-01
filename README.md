@@ -265,3 +265,24 @@ http://watson-dev-challenge.devpost.com/updates/4942-getting-started-building-a-
 
 Natural Language Interface to Database using SIML<br/>
 http://www.codeproject.com/Articles/990613/Natural-Language-Interface-to-Database-using-SIML<br/>
+
+
+Machine Learning
+----------------
+Analytics Vidya<br/>
+http://www.analyticsvidhya.com/<br/>
+
+Bayesian Statistics explained to Beginners in Simple English<br/>
+http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/<br/>
+
+Getting Started with Big Data Integration using HDFS and DMX-h<br/>
+http://www.analyticsvidhya.com/blog/2016/06/started-big-data-integration-hdfs-dmexpress/<br/>
+
+Comprehensive learning path – Data Science in Python<br/>
+http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/<br/>
+
+Learning From Data (Introductory Machine Learning)<br/>
+https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x#!<br/>
+
+LeaRning Path on R – Step by Step Guide to Learn Data Science on R<br/>
+http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/<br/>
