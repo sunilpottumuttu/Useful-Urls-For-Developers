@@ -137,8 +137,17 @@ https://developers.google.com/products/<br/>
 
 NLP
 -----
-NLP online courses
-https://www.quora.com/Are-there-any-good-audio-video-lectures-on-Natural-Language-Processing-available-online
+Stanford NLP videos<br/>
+https://www.youtube.com/watch?v=nfoudtpBV68<br/>
+https://www.youtube.com/watch?v=hwDhO1GLb_4<br/>
+https://www.youtube.com/watch?v=RGLldper5II<br/>
+
+
+Stanford NLP Video Lectures<br/>
+https://www.youtube.com/playlist?list=PLuBJa2RktQX-N0flCReMywxy1E-tsF0ZC<br/>
+
+NLP online courses<br/>
+https://www.quora.com/Are-there-any-good-audio-video-lectures-on-Natural-Language-Processing-available-online<br/>
 
 Java Open Source NLP and Text Mining tools<br/>
 http://www.searchenginecaffe.com/2007/03/java-open-source-text-mining-and.html<br/>
