@@ -18,6 +18,9 @@ http://journal.stuffwithstuff.com/2009/05/13/ml-style-pattern-matching-in-c/<br/
 
 Bots Development
 --------------------------
+An Introduction to the Microsoft Bot Framework<br/>
+http://www.codeproject.com/Articles/1106457/An-Introduction-to-the-Microsoft-Bot-Framework<br/>
+
 
 Create messenger bots using Elixir and Microsoft bot framework<br/>
 http://www.zohaib.me/create-messenger-bots-using-elixir-and-microsoft-bot-framework/<br/>
