@@ -322,3 +322,12 @@ http://www.amazon.in/Statistics-Social-Sciences-T-Rajaretnam/dp/935150655X/ref=s
 
 Probability and Statistics<br/>
 http://www.amazon.in/Probability-Statistics-E-Rukmangadachari/dp/8131761363/ref=sr_1_23?s=books&ie=UTF8&qid=1467617866&sr=1-23&keywords=probability<br/>
+
+
+Statistics
+----------------
+List of Free Statistical Software<br/>
+http://l-lists.com/en/lists/dz3a5t.html<br/>
+
+PSPP statistical software
+https://www.gnu.org/software/pspp/
