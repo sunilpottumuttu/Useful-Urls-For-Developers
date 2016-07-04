@@ -18,6 +18,16 @@ http://journal.stuffwithstuff.com/2009/05/13/ml-style-pattern-matching-in-c/<br/
 
 Bots Development
 --------------------------
+
+Create messenger bots using Elixir and Microsoft bot framework<br/>
+http://www.zohaib.me/create-messenger-bots-using-elixir-and-microsoft-bot-framework/<br/>
+
+MS HEALTH BOT TUTORIAL<br/>
+http://peted.azurewebsites.net/ms-health-bot-tutorial/	<br/>
+
+Creating A Facebook Bot Using Microsoft Bot Framework<br/>
+http://www.codeproject.com/Articles/1110201/Creating-A-Facebook-Bot-Using-Microsoft-Bot-Framew<br/>
+
 Add a Chatbot to a C# application using SIML (Synthetic Intelligence Markup Language)<br/>
 http://www.codeproject.com/Articles/866760/Add-a-Chatbot-to-a-Csharp-application-using-SIML-S<br/>
 
