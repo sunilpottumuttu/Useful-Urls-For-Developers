@@ -295,3 +295,30 @@ https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x#!
 
 LeaRning Path on R – Step by Step Guide to Learn Data Science on R<br/>
 http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/<br/>
+
+
+Good books
+----------------
+
+Probability Theory<br/>
+http://www.amazon.in/Probability-Theory-Kumar/dp/8182830079/ref=sr_1_9?s=books&ie=UTF8&qid=1467617141&sr=1-9&keywords=probability<br/>
+
+An Introduction to Probability and Statistics<br/>
+http://www.amazon.in/Introduction-Probability-Statistics-Vijay-Rohatgi/dp/8126519266/ref=sr_1_8?s=books&ie=UTF8&qid=1467617141&sr=1-8&keywords=probability<br/>
+
+
+Miller and Freund's Probability and Statistics for Engineers<br/>
+http://www.amazon.in/Miller-Freunds-Probability-Statistics-Engineers/dp/9332550417/ref=sr_1_11?s=books&ie=UTF8&qid=1467617141&sr=1-11&keywords=probability<br/>
+
+Introduction To Probability And Statistics For Engineers And Scientists<br/>
+http://www.amazon.in/Introduction-Probability-Statistics-Engineers-Scientists/dp/9351072800/ref=sr_1_7?s=books&ie=UTF8&qid=1467617141&sr=1-7&keywords=probability<br/>
+
+Introduction to Probability Models<br/>
+http://www.amazon.in/Introduction-Probability-Models-11-ROSS/dp/935107224X/ref=pd_sim_14_3?ie=UTF8&dpID=41rE4VRJNqL&dpSrc=sims&preST=_AC_UL160_SR108%2C160_&psc=1&refRID=10C25A72E09MWFMHN1XV<br/>
+http://www.endustri.anadolu.edu.tr/c_aghayeva/%C4%B0ST%20411/duyuru/Introduction%20to%20Probability%20Models%20(Sheldon%20M.Ross%20,%209th%20Edition).pdf<br/>
+
+Statistics for Social Sciences<br/>
+http://www.amazon.in/Statistics-Social-Sciences-T-Rajaretnam/dp/935150655X/ref=sr_1_30?s=books&ie=UTF8&qid=1467615494&sr=1-30&keywords=data+science<br/>
+
+Probability and Statistics<br/>
+http://www.amazon.in/Probability-Statistics-E-Rukmangadachari/dp/8131761363/ref=sr_1_23?s=books&ie=UTF8&qid=1467617866&sr=1-23&keywords=probability<br/>
