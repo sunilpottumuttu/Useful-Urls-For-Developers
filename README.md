@@ -18,6 +18,19 @@ http://journal.stuffwithstuff.com/2009/05/13/ml-style-pattern-matching-in-c/<br/
 
 Bots Development
 --------------------------
+
+Comparison of Bot Frameworks on the Market<br/>
+http://blogs.aspect.com/bot-framework-s-comparison/<br/>
+
+Adding Natural Language Processing to a Bot with Microsoft Cognitive Services (LUIS)<br/>
+http://anthonychu.ca/post/natural-language-bot-microsoft-cognitive-services-luis/<br/>
+
+Bots Can Be More Than Text<br/>
+http://blog.botframework.com/2016/05/13/BotFramework.buttons/<br/>
+
+An Interactive Bot Application With LUIS Using Microsoft Bot Framework
+http://www.c-sharpcorner.com/article/an-interactive-bot-application-with-luis-using-microsoft-bot/
+
 An Introduction to the Microsoft Bot Framework<br/>
 http://www.codeproject.com/Articles/1106457/An-Introduction-to-the-Microsoft-Bot-Framework<br/>
 
@@ -143,6 +156,9 @@ https://www.linkedin.com/pulse/idiots-guide-cognitive-services-nigel-willson<br/
 
 LUIS(language understanding intelligent services)<br/>
 https://www.luis.ai/Help/#Overview<br/>
+
+Introduction to Language Understanding Intelligent Service (LUIS) - Microsoft Cognitive Services<br/>
+https://www.youtube.com/watch?v=jWeLajon9M8<br/>
 
 google products<br/>
 https://developers.google.com/products/<br/>
@@ -344,3 +360,6 @@ http://l-lists.com/en/lists/dz3a5t.html<br/>
 
 PSPP statistical software
 https://www.gnu.org/software/pspp/
+
+
+
