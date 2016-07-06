@@ -19,6 +19,9 @@ http://journal.stuffwithstuff.com/2009/05/13/ml-style-pattern-matching-in-c/<br/
 Bots Development
 --------------------------
 
+Building a Conversational Bot: From 0 to 60<br/>
+https://www.youtube.com/watch?v=spj9YOsKKXc<br/>
+
 Comparison of Bot Frameworks on the Market<br/>
 http://blogs.aspect.com/bot-framework-s-comparison/<br/>
 
