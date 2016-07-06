@@ -18,6 +18,11 @@ http://journal.stuffwithstuff.com/2009/05/13/ml-style-pattern-matching-in-c/<br/
 
 Bots Development
 --------------------------
+Chat Bots: Useful Links, Articles, Libraries and Platforms<br/>
+https://stanfy.com/blog/the-rise-of-chat-bots-useful-links-articles-libraries-and-platforms/<br/>
+
+Creating a Chat Bot<br/>
+https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.horwo6m5r<br/>
 
 Building a Conversational Bot: From 0 to 60<br/>
 https://www.youtube.com/watch?v=spj9YOsKKXc<br/>
