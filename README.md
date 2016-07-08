@@ -18,6 +18,22 @@ http://journal.stuffwithstuff.com/2009/05/13/ml-style-pattern-matching-in-c/<br/
 
 Bots Development
 --------------------------
+
+LUIS and the Bot Framework: A Natural Language Match<br/>
+http://mayoster.blogspot.in/2016/05/luis-and-bot-framework-natural-language.html<br/>
+
+Fast and easy language understanding for dialog systems with Microsoft Language Understanding Intelligent Service (LUIS)<br/>
+http://www.aclweb.org/anthology/W15-4622<br/>
+
+Make a chatbot with Python and SQLite<br/>
+http://rodic.fr/blog/python-chatbot-1/<br/>
+
+Chatbot’s documentation<br/>
+https://pythonhosted.org/Chatbot/#<br/>
+
+AI Chat Bot in Python with AIML<br/>
+http://www.devdungeon.com/content/ai-chat-bot-python-aiml<br/>
+
 Chat Bots: Useful Links, Articles, Libraries and Platforms<br/>
 https://stanfy.com/blog/the-rise-of-chat-bots-useful-links-articles-libraries-and-platforms/<br/>
 
@@ -119,6 +135,7 @@ https://github.com/RPiAwesomeness/BeamBot<br/>
 
 Developing AI chatbots<br/>
 http://www.codeproject.com/Articles/12454/Developing-AI-chatbots<br/>
+
 
 Chatbot Fundamentals An interactive guide to writing bots in Python<br/>
 https://apps.worldwritable.com/tutorials/chatbot/<br/>
