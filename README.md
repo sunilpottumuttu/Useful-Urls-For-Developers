@@ -19,6 +19,35 @@ http://journal.stuffwithstuff.com/2009/05/13/ml-style-pattern-matching-in-c/<br/
 Bots Development
 --------------------------
 
+Easily create a tally bot with the Bot Framework
+https://blog.luu.io/posts/2016/04/creating-a-tally-bot
+
+Microsoft Bot Framework
+https://katvharris.azurewebsites.net/blog/microsoft-bot-framework/
+
+Echobot
+https://github.com/Microsoft/BotBuilder/tree/master/CSharp/Samples/EchoBot
+
+
+Creating a phone number lookup bot using Microsoft Bot Framework and C#
+https://www.twilio.com/blog/2016/05/creating-a-phone-number-lookup-bot-using-microsoft-bot-framework-and-c.html
+
+mmbot is a port of github's Hubot to C#.
+https://github.com/mmbot/mmbot
+
+Bot Framework in depth
+http://streamcode.io/luis-in-depth/
+
+Advanced Natural Language Processing Tools for Bot Makers – LUIS, Wit.ai, Api.ai and others
+https://stanfy.com/blog/advanced-natural-language-processing-tools-for-bot-makers/
+
+IBM Watson Services
+http://www.ibm.com/watson/developercloud/services-catalog.html
+
+Keyword Tool
+http://keywordtool.io/google
+
+
 LUIS and the Bot Framework: A Natural Language Match<br/>
 http://mayoster.blogspot.in/2016/05/luis-and-bot-framework-natural-language.html<br/>
 
@@ -386,5 +415,7 @@ http://l-lists.com/en/lists/dz3a5t.html<br/>
 PSPP statistical software
 https://www.gnu.org/software/pspp/
 
-
-
+Flask
+----------------
+Flask On IIS
+http://netdot.co/2015/03/09/flask-on-iis/
