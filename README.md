@@ -214,6 +214,9 @@ https://www.luis.ai/Help/#Overview<br/>
 Introduction to Language Understanding Intelligent Service (LUIS) - Microsoft Cognitive Services<br/>
 https://www.youtube.com/watch?v=jWeLajon9M8<br/>
 
+Advanced Learning Session for Language Understanding Intelligent Service (LUIS)
+https://www.youtube.com/watch?v=39L0Gv2EcSk
+
 google products<br/>
 https://developers.google.com/products/<br/>
 
