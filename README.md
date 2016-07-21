@@ -422,3 +422,12 @@ Flask
 ----------------
 Flask On IIS
 http://netdot.co/2015/03/09/flask-on-iis/
+
+
+Container Management
+----------------
+open source operating system designed for the cloud
+http://osv.io/
+
+Unik lightweight bootable disk images
+https://github.com/emc-advanced-dev/unik
