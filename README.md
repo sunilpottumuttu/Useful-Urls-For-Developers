@@ -431,3 +431,17 @@ http://osv.io/
 
 Unik lightweight bootable disk images
 https://github.com/emc-advanced-dev/unik
+
+
+
+Spark
+----------------
+
+PySpark Tutorial
+https://github.com/mahmoudparsian/pyspark-tutorial
+
+data-algorithms in spark
+https://github.com/mahmoudparsian/data-algorithms-book
+
+Data Algorithms: Recipes for Scaling Up with Hadoop and Spark
+http://dl.farinsoft.ir/files/94/Data-Algorithms-Recipes-Scaling-Hadoop.pdf
