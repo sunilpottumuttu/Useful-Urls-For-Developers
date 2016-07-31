@@ -445,3 +445,9 @@ https://github.com/mahmoudparsian/data-algorithms-book
 
 Data Algorithms: Recipes for Scaling Up with Hadoop and Spark
 http://dl.farinsoft.ir/files/94/Data-Algorithms-Recipes-Scaling-Hadoop.pdf
+
+
+Linked data
+----------------
+linkeddatatools
+http://www.linkeddatatools.com/index.php
