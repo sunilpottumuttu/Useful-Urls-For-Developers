@@ -451,3 +451,15 @@ Linked data
 ----------------
 linkeddatatools
 http://www.linkeddatatools.com/index.php
+
+
+
+
+Data Mining
+------------
+
+guide to data mining pdf
+http://guidetodatamining.com/
+
+27 Free Data Mining Books
+http://www.dataonfocus.com/21-free-data-mining-books/	
