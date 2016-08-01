@@ -539,3 +539,32 @@ http://romisatriawahono.net/lecture/dm/book/Kotu%20-%20Predictive%20Analytics%20
 
 awesome-machine-learning
 https://github.com/josephmisiti/awesome-machine-learning#net-nlp
+
+
+Top 10 Graphical User Interfaces in Statistical Software
+https://decisionstats.com/2010/04/29/top-10-graphical-user-interfaces-in-statistical-softwares/
+
+Rattle: A Graphical User Interface for Data Mining using R
+http://rattle.togaware.com/
+
+R commander (Rcmdr)
+http://www.rcommander.com/
+
+
+Microsoft R Application Network
+https://mran.microsoft.com/
+
+JGR - Java GUI for R
+https://www.rforge.net/JGR/
+
+
+RGG: A general GUI Framework for R scripts
+http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-74
+
+
+
+Python
+----------------
+
+awesome python
+https://github.com/vinta/awesome-python
