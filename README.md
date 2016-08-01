@@ -455,11 +455,87 @@ http://www.linkeddatatools.com/index.php
 
 
 
-Data Mining
-------------
+Data Mining and Machine Learning
+---------------------------------
+Predictive analytics and data mining
+http://cseweb.ucsd.edu/~jmcauley/cse255/files/elkan_dm.pdf
+
+predictive analytics for dummies
+http://www.indianashrm.org/conference/speakers/MmoscatoPredictive%20Analytics.pdf
+
+
+Data Mining for the Masses(RapidMiner)
+http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
+
+Visual Interface to program with R
+http://r.analyticflow.com/en/
 
 guide to data mining pdf
 http://guidetodatamining.com/
 
 27 Free Data Mining Books
 http://www.dataonfocus.com/21-free-data-mining-books/	
+
+INTRODUCTION TO MACHINE LEARNING
+http://ai.stanford.edu/people/nilsson/MLBOOK.pdf
+
+
+Understanding Machine Learning:From Theory to Algorithms
+http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
+
+INTRODUCTION TO MACHINE LEARNING
+http://alex.smola.org/drafts/thebook.pdf
+
+
+A Course in Machine Learning
+http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf
+http://ciml.info/
+
+Introduction to Machine Learning Second Edition MIT Press
+http://cs.du.edu/~mitchell/mario_books/Introduction_to_Machine_Learning_-_2e_-_Ethem_Alpaydin.pdf
+
+Machine Learning Tutorial
+http://disp.ee.ntu.edu.tw/~pujols/Machine%20Learning%20Tutorial.pdf
+
+Manning Machine Learning in Action
+http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf
+
+Machine Learning and Data Mining Lecture Notes
+https://www.dgp.toronto.edu/~hertzman/411notes.pdf
+
+Machine Learning, Neural and Statistical Classification
+http://www1.maths.leeds.ac.uk/~charles/statlog/
+
+Machine Learning Tom M. Mitchell 
+http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf
+
+
+Machine Learning Algorithms Cheat sheet
+https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/
+
+
+Machine Learning Algorithms in python
+https://pythonizame.s3.amazonaws.com/media/Book/machine-learning-python-essential-techniques-predictive-analysis/file/008c0aac-9784-11e5-964d-04015fb6ba01.pdf
+
+
+Machine Learning is Fun!
+https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.jrfsvv7ki
+
+
+Machine Learning Theory
+http://www.cs.cornell.edu/Courses/cs6783/2014fa/
+
+Machine Learning Slides
+http://www.cs.bris.ac.uk/~flach/mlbook/materials/mlbook-beamer.pdf
+
+Deep Learning
+http://www.deeplearningbook.org/
+
+Machine Learning
+http://math.bu.edu/people/mkon/html/s_machine_learning.html
+
+vijay kotu book on rapidminer
+http://romisatriawahono.net/lecture/dm/book/Kotu%20-%20Predictive%20Analytics%20using%20Rapidminer%20-%202015.pdf
+
+awesome-machine-learning
+https://github.com/josephmisiti/awesome-machine-learning#net-nlp
