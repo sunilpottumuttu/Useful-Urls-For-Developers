@@ -568,3 +568,163 @@ Python
 
 awesome python
 https://github.com/vinta/awesome-python
+
+
+
+Books
+--------
+Data Analysis with R
+http://www.ebook777.com/data-analysis-r/
+
+Building Web Services with Microsoft Azure
+http://www.ebook777.com/building-web-services-microsoft-azure/
+
+
+Database Nation
+http://www.ebook777.com/database-nation/
+
+Data Science from Scratch First Principles with Python
+http://www.ebook777.com/data-science-scratch/
+
+
+Data Structures and Algorithms in Python
+http://www.ebook777.com/data-structures-algorithms-python/
+
+Doing Data Science Straight Talk from the Frontline
+http://www.ebook777.com/doing-data-science/
+
+Distributed Network Data From hardware to data to visualization
+http://www.ebook777.com/distributed-network-data/
+
+Building Virtual Pentesting Labs for Advanced Penetration Testing
+http://www.ebook777.com/building-virtual-pentesting-labs-advanced-penetration-testing/
+
+Data Science For Dummies
+http://www.ebook777.com/data-science-dummies/
+
+DevOps for Developers
+http://www.ebook777.com/devops-for-developers/
+
+Developing with PDF Dive Into the Portable Document Format
+http://www.ebook777.com/developing-with-pdf/
+
+Data Mashups in R.
+http://www.ebook777.com/data-mashups-r/
+
+
+Data Push Apps with HTML5 SSE Pragmatic Solutions for Real-World Clients
+http://www.ebook777.com/data-push-apps-html5-sse/
+
+
+Data Scientists at Work
+http://www.ebook777.com/data-scientists-work/
+
+Big Data Glossary A Guide to the New Generation of Data Tools
+http://www.ebook777.com/big-data-glossary/
+
+
+Designing Evolvable Web APIs with ASP.NET
+http://www.ebook777.com/designing-evolvable-web-apis-asp-net/
+
+
+Data Mining and Business Analytics with R
+http://www.ebook777.com/data-mining-business-analytics-r/
+
+Derivatives Analytics with Python Data Analysis, Models, Simulation, Calibration and Hedging
+http://www.ebook777.com/derivatives-analytics-python/
+
+Data Science at the Command Line Facing the Future with Time-Tested Tools
+http://www.ebook777.com/data-science-command-line/
+
+
+Creating a Data-Driven Organization Practical Advice from the Trenches
+http://www.ebook777.com/creating-data-driven-organization/
+
+Concurrency in C# Cookbook Asynchronous, Parallel, and Multithreaded Programming
+http://www.ebook777.com/concurrency-c-cookbook/
+
+
+Creating Apps in Kivy
+http://www.ebook777.com/it-ebooks/page/22/
+
+Create Web Charts with D3
+http://www.ebook777.com/it-ebooks/page/23/
+
+Communicating Data with Tableau Designing, Developing, and Delivering Data Visualizations
+http://www.ebook777.com/communicating-data-tableau/
+
+Client-Side Data Storage
+http://www.ebook777.com/client-side-data-storage/
+
+
+Client-Server Web Apps with JavaScript and Java Rich, Scalable, and RESTful
+http://www.ebook777.com/client-server-web-apps-javascript-java/
+
+Building a Recommendation System with R
+http://www.ebook777.com/building-recommendation-system-r/
+
+Cassandra: The Definitive Guide
+http://www.ebook777.com/cassandra-definitive-guide/
+
+Building Web Applications with Python and Neo4j
+http://www.ebook777.com/building-web-applications-python-neo4j/
+
+Business Intelligence and the Cloud
+http://www.ebook777.com/business-intelligence-cloud/
+
+
+Building the Realtime User Experience Creating Immersive and Interactive Websites
+http://www.ebook777.com/building-realtime-user-experience/
+
+Building Probabilistic Graphical Models with Python
+http://www.ebook777.com/building-probabilistic-graphical-models-python/
+
+Building Mobile Applications Using Kendo UI Mobile and ASP.NET Web API
+http://www.ebook777.com/building-mobile-applications-using-kendo-ui-mobile-asp-net-web-api/
+
+Building Your Next Big Thing with Google Cloud Platform
+http://www.ebook777.com/building-next-big-thing-google-cloud-platform/
+
+
+Building Web Applications with Flask
+http://www.ebook777.com/building-web-applications-flask/
+
+Building iPhone and iPad Electronic Projects
+http://www.ebook777.com/building-iphone-ipad-electronic-projects/
+
+Big Data, Data Mining, and Machine Learning
+http://www.ebook777.com/big-data-data-mining-machine-learning/
+
+
+Big Data For Dummies
+http://www.ebook777.com/big-data-dummies/
+
+Blueprints Visual Scripting for Unreal Engine
+http://www.ebook777.com/blueprints-visual-scripting-unreal-engine/
+
+Big Data Imperatives
+http://www.ebook777.com/big-data-imperatives/
+
+Big Data Application Architecture Q&A
+http://www.ebook777.com/big-data-application-architecture-qa/
+
+
+Bioinformatics Programming Using Python
+http://www.ebook777.com/bioinformatics-programming-using-python/
+
+Big Data Analytics with R and Hadoop
+http://www.ebook777.com/big-data-analytics-r-hadoop/
+
+
+Beginning R An Introduction to Statistical Programming
+http://www.ebook777.com/beginning-r/
+
+Big Data Analytics Using Splunk
+http://www.ebook777.com/big-data-analytics-using-splunk/
+
+
+Beginning R, 2nd Edition
+http://www.ebook777.com/beginning-r-2nd-edition/
+
+Beginning Python Visualization, 2nd Edition
+http://www.ebook777.com/beginning-python-visualization-2nd-edition/
