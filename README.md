@@ -364,6 +364,9 @@ http://www.codeproject.com/Articles/990613/Natural-Language-Interface-to-Databas
 
 Machine Learning
 ----------------
+Analytics in the field of hacking
+https://clicksecurity.github.io/data_hacking/
+
 Analytics Vidya<br/>
 http://www.analyticsvidhya.com/<br/>
 
