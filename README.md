@@ -367,6 +367,9 @@ Machine Learning
 7 awesome data science newsletters to keep you informed
 https://www.dataquest.io/blog/data-science-newsletters/
 
+9+ Free Online Data Science Resources You Should Know
+http://www.semantikoz.com/blog/9-free-online-data-science-courses/
+
 Data Science by AnalyticBridge
 http://www.datashaping.com/ABbook5.pdf
 
