@@ -364,8 +364,20 @@ http://www.codeproject.com/Articles/990613/Natural-Language-Interface-to-Databas
 
 Machine Learning
 ----------------
+7 awesome data science newsletters to keep you informed
+https://www.dataquest.io/blog/data-science-newsletters/
+
+Data Science by AnalyticBridge
+http://www.datashaping.com/ABbook5.pdf
+
+Data Mining with R Learning with Case Studies
+http://www.dainf.ct.utfpr.edu.br/~kaestner/Mineracao/RDataMining/Data%20Mining%20with%20R-Kumar.pdf
+
 Analytics in the field of hacking
 https://clicksecurity.github.io/data_hacking/
+
+10 Big Data Case Studies
+http://datasciencereport.com/2015/05/27/case-studies-10-big-data-projects-in-the-insurance-industry/#.V6Ckfvl96M8
 
 an introduction to data science
 https://ischool.syr.edu/media/documents/2012/3/DataScienceBook1_1.pdf
