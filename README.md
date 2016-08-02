@@ -367,6 +367,34 @@ Machine Learning
 Analytics in the field of hacking
 https://clicksecurity.github.io/data_hacking/
 
+an introduction to data science
+https://ischool.syr.edu/media/documents/2012/3/DataScienceBook1_1.pdf
+
+datasets for data science
+http://www.datascienceweekly.org/data-science-resources/data-science-datasets
+
+Data-Analysis-and-Machine-Learning-Projects
+https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
+
+Tutorial: Machine Learning for Astronomy with Scikit-learn
+http://www.astroml.org/sklearn_tutorial/index.html
+
+data science case studies
+http://www.asiandatascience.com/category/case-studies/
+
+Data Science Use Cases
+https://www.kaggle.com/wiki/DataScienceUseCases
+
+11 interesting Big Data case studies in Telecom
+http://bigdata-madesimple.com/11-interesting-big-data-case-studies-in-telecom/
+
+Case Studies in Data Science with R 
+http://rdatasciencecases.org/
+
+
+Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving
+https://www.crcpress.com/Data-Science-in-R-A-Case-Studies-Approach-to-Computational-Reasoning-and/Nolan-Lang/p/book/9781482234817
+
 Analytics Vidya<br/>
 http://www.analyticsvidhya.com/<br/>
 
