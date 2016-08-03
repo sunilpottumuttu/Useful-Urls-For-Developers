@@ -616,6 +616,10 @@ awesome python
 https://github.com/vinta/awesome-python
 
 
+Roslyn Scripting
+----------------
+C# Scripting API
+http://gsferreira.com/archive/2016/02/the-shining-new-csharp-scripting-api/
 
 Books
 --------
