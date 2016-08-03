@@ -1,5 +1,5 @@
-References for Some Useful URL'S
-===========================
+URL's that are useful for developers
+=====================================
 
 .NET
 -------
