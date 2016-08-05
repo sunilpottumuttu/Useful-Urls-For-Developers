@@ -778,3 +778,31 @@ http://www.ebook777.com/beginning-r-2nd-edition/
 
 Beginning Python Visualization, 2nd Edition
 http://www.ebook777.com/beginning-python-visualization-2nd-edition/
+
+
+ASP.NET MVC
+-------
+Dynamically add and remove rows for a table in MVC
+https://yoda.entelect.co.za/view/7517/dynamically-add-and-remove-rows-for-a-table-in-mvc
+
+
+Editing a variable length list, ASP.NET MVC 2-style
+http://blog.stevensanderson.com/2010/01/28/editing-a-variable-length-list-aspnet-mvc-2-style/
+
+
+Add row in table with jquery whic connected with model in mvc
+http://stackoverflow.com/questions/29028298/add-row-in-table-with-jquery-whic-connected-with-model-in-mvc
+
+Adding and deleting rows in dynamic table in Asp.net mvc razor view
+http://stackoverflow.com/questions/29433666/adding-and-deleting-rows-in-dynamic-table-in-asp-net-mvc-razor-view
+
+
+ASP.NET MVC: Proper model binding with dynamic form
+https://patricjsson.wordpress.com/2015/05/25/asp-net-mvc-proper-model-binding-with-dynamic-form/
+
+MVC Series Part 1: Dynamically Adding Items Part 1
+http://blogs.interknowlogy.com/2014/08/01/mvc-series-part-1-dynamically-adding-items-part-1/
+
+
+How to insert multiple row to database using asp.net MVC
+http://www.dotnetawesome.com/2014/08/how-to-insert-multiple-record-to-database-at-a-time-aspnet-mvc4.html
