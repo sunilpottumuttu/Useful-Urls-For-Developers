@@ -854,3 +854,10 @@ http://stackoverflow.com/questions/19903094/load-insecure-content-in-an-iframe-o
 
 Why you should not mix http and https when using iframes
 http://www.tinywebgallery.com/blog/iframe-do-not-mix-http-and-https
+
+Best way to display http content in an iframe on a https site RSS
+http://forums.asp.net/t/2068236.aspx?Best+way+to+display+http+content+in+an+iframe+on+a+https+site
+
+
+HTML <iframe> sandbox Attribute
+http://www.w3schools.com/tags/att_iframe_sandbox.asp
