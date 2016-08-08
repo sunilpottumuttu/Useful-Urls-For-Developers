@@ -861,3 +861,11 @@ http://forums.asp.net/t/2068236.aspx?Best+way+to+display+http+content+in+an+ifra
 
 HTML <iframe> sandbox Attribute
 http://www.w3schools.com/tags/att_iframe_sandbox.asp
+
+
+
+Microservices
+--------------
+
+jolie The first language for Microservices
+http://www.jolie-lang.org/index.html
