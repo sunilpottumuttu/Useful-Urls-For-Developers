@@ -839,3 +839,18 @@ http://blogs.interknowlogy.com/2014/08/01/mvc-series-part-1-dynamically-adding-i
 
 How to insert multiple row to database using asp.net MVC
 http://www.dotnetawesome.com/2014/08/how-to-insert-multiple-record-to-database-at-a-time-aspnet-mvc4.html
+
+
+
+HTTP
+-----
+Insecure(http) content in iframe on secure(https) page
+http://stackoverflow.com/questions/9280665/insecure-content-in-iframe-on-secure-page
+
+
+load Insecure content in an iframe on secured page(or ssl ) https:// in asp.net
+http://stackoverflow.com/questions/19903094/load-insecure-content-in-an-iframe-on-secured-pageor-ssl-https-in-asp-net
+
+
+Why you should not mix http and https when using iframes
+http://www.tinywebgallery.com/blog/iframe-do-not-mix-http-and-https
