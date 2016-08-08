@@ -187,6 +187,39 @@ http://chhopsky.tv/twitch-chat-csharpdotnet/<br/>
 creating chatbots in C#<br/>
 http://www.manticmoo.com/jeff/nfbslam/tutorial.php.bak.final<br/>
 
+
+Build a Bot (sample)
+https://msdn.microsoft.com/en-us/library/office/dn454823.aspx
+
+Creating a generic bot
+https://msdn.microsoft.com/en-us/library/office/dn454839.aspx
+
+Creating a Lync bot
+https://msdn.microsoft.com/en-us/library/office/dn454840.aspx
+
+Creating an Excel bot
+https://msdn.microsoft.com/en-us/library/office/dn454841.aspx
+
+IM an Expert Lync bot available for download and other Lync customization examples
+https://blogs.technet.microsoft.com/ucedsg/2011/03/24/im-an-expert-lync-bot-available-for-download-and-other-lync-customization-examples/
+
+Elyza - an auto-responding & remote control bot for Lync
+https://gallery.technet.microsoft.com/office/ELYZA-an-auto-responding-4b4e20a1
+
+How I built an Ms Lync ‘Bot’ formally known as D.A.V.E.
+https://www.mikesel.info/how-to-build-a-lync-bot/
+
+MindLink API - Your Bot Framework For Lync/Skype For Business On Premise
+https://www.mindlinksoft.com/blog/mindlink-api-bot-framework
+
+Lync Tools and Add-Ons
+http://chrishayward.co.uk/lync-tools-and-add-ons/
+
+
+Microsoft announces the preview of the Skype Bot Platform
+http://blog.thoughtstuff.co.uk/2016/03/microsoft-announces-the-preview-of-the-skype-bot-platform/
+
+
 Research Projects
 --------------------------
 Microsoft FUSE Labs<br/>
