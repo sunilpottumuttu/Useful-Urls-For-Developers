@@ -863,6 +863,30 @@ HTML <iframe> sandbox Attribute
 http://www.w3schools.com/tags/att_iframe_sandbox.asp
 
 
+Natural Language Processing with .net
+---------------------------------------
+
+Natural Language for .NET
+http://nlp.abodit.com/
+
+Natural Language Query for .NET C# semantic search for databases
+http://www.nrecosite.com/nlp_ner_net.aspx
+
+OpenNLP
+http://opennlp.sourceforge.net/projects.html
+
+Development of Natural Language Processing Library in Nemerle using Dotnet Framework
+http://www.ijsrp.org/research-paper-1112/ijsrp-p1185.pdf
+
+
+Microsoft Natural Language Processing
+https://www.microsoft.com/en-us/research/group/natural-language-processing/
+
+Textc is a natural language processing library that allows developers build text command based applications.
+https://github.com/takenet/textc-csharp
+
+Nemerle Programming Language
+Programming language for "special forces" of developers
 
 Microservices
 --------------
