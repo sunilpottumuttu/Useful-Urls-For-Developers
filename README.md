@@ -898,9 +898,31 @@ http://radimrehurek.com/gensim/index.html
 Question answering on the Facebook bAbi dataset using recurrent neural networks and 175 lines of Python + Keras
 http://smerity.com/articles/2015/keras_qa.html
 
+Carrot2 is an Open Source Search Results Clustering Engine
+http://project.carrot2.org/documentation.html
+
+How to classify text using SVM in C#
+http://www.svm-tutorial.com/2014/10/svm-tutorial-classify-text-csharp/
+
+
+datamining projects
+http://www.slideshare.net/VijayKaran2/m-ecomputersciencedataminingprojects
+
+Open Source Text Processing Project: PTStemmer
+http://textprocessing.org/category/c-sharp
+
+Open source NLP tools (sentence splitter, tokenizer, chunker, coref, NER, parse trees, etc.) in C#
+https://recordnotfound.com/OpenNlp-AlexPoint-126856
 
 Microservices
 --------------
 
 jolie The first language for Microservices
 http://www.jolie-lang.org/index.html
+
+
+ETL tools
+---------
+
+scriptella ETL 
+http://scriptella.org/
