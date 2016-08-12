@@ -888,6 +888,17 @@ https://github.com/takenet/textc-csharp
 Nemerle Programming Language
 Programming language for "special forces" of developers
 
+Create a Natural Language Question Answering system with IBM Watson 
+http://fartashh.github.io/post/qa-system-watson/
+
+
+gensim	topic modelling for humans
+http://radimrehurek.com/gensim/index.html
+
+Question answering on the Facebook bAbi dataset using recurrent neural networks and 175 lines of Python + Keras
+http://smerity.com/articles/2015/keras_qa.html
+
+
 Microservices
 --------------
 
