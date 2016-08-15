@@ -216,8 +216,33 @@ Lync Tools and Add-Ons
 http://chrishayward.co.uk/lync-tools-and-add-ons/
 
 
-Microsoft announces the preview of the Skype Bot Platform
-http://blog.thoughtstuff.co.uk/2016/03/microsoft-announces-the-preview-of-the-skype-bot-platform/
+Microsoft announces the preview of the Skype Bot Platform<br/>
+http://blog.thoughtstuff.co.uk/2016/03/microsoft-announces-the-preview-of-the-skype-bot-platform/<br/>
+
+Bot Programming<br/>
+http://www.slideshare.net/amyiris/ai-and-python-developing-a-conversational-interface-using-python<br/>
+https://api.ai/<br/>
+http://www.pandorabots.com/<br/>
+https://www.google.co.in/search?q=Bot+Programming%3A+Intelligent+Automation+for+Windows+Applications+and+Games+pdf&oq=Bot+Programming%3A+Intelligent+Automation+for+Windows+Applications+and+Games+pdf&aqs=chrome..69i57.1284j0j4&sourceid=chrome&ie=UTF-8<br/>
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=conversational+ui+programming&start=20<br/>
+http://www.codeproject.com/Articles/866760/Add-a-Chatbot-to-a-Csharp-application-using-SIML-S<br/>
+http://www.simlbot.com/<br/>
+https://playground.pandorabots.com/en/quickstart/<br/>
+https://developer.pandorabots.com/docs#botFiles<br/>
+http://www.pandorabots.com/<br/>
+http://tmenier.github.io/Flurl/fluent-http/<br/>
+https://github.com/quozd/awesome-dotnet#api<br/>
+http://stanfordnlp.github.io/CoreNLP/corenlp-server.html#getting-started<br/>
+https://stanbol.apache.org/downloads/<br/>
+http://meta-guide.com/api/100-best-programmableweb-nlp-apis<br/>
+https://spacy.io/docs#english<br/>
+https://radimrehurek.com/gensim/tutorial.html<br/>
+http://stanfordnlp.github.io/CoreNLP/<br/>
+http://textblob.readthedocs.io/en/dev/<br/>
+http://textminingonline.com/getting-started-with-textblob<br/>
+https://market.mashape.com/textanalysis/textanalysis<br/>
+https://market.mashape.com/loudelement/free-natural-language-processing-service<br/>
+http://blog.mashape.com/list-of-50-machine-learning-apis/<br/>
 
 
 Research Projects
@@ -395,10 +420,39 @@ Natural Language Interface to Database using SIML<br/>
 http://www.codeproject.com/Articles/990613/Natural-Language-Interface-to-Database-using-SIML<br/>
 
 
+NLP Question Answering Systems<br/>
+http://en.www.quaero.org.systranlinks.net/module_technologique/question-answering-system/<br/>
+https://lucidworks.com/blog/2013/02/11/a-simple-question-answering-system-using-solr-and-opennlp/<br/>
+http://www.amazon.in/Natural-Language-Question-Answering-System/dp/0868039799<br/>
+https://gofishdigital.com/microsoft-disses-watson-describes-natural-language-processing-approach-question-answering/<br/>
+http://www.ibm.com/developerworks/cloud/library/cl-watson-films-bluemix-app/<br/>
+http://www.ibm.com/developerworks/cloud/library/cl-watson-qaapi-app/<br/>
+http://web4health.info/el/project-search.htm<br/>
+https://brage.bibsys.no/xmlui/handle/11250/253938<br/>
+NLP Question Answering System in Telugu http://ijarcet.org/wp-content/uploads/IJARCET-VOL-3-ISSUE-12-4224-4226.pdf    <br/>
+https://www.aaai.org/Papers/FLAIRS/2006/Flairs06-059.pdf<br/>
+http://kmi.open.ac.uk/publications/pdf/kmi-03-7.pdf<br/>
+http://www.infoworld.com/article/2858891/machine-learning/four-open-source-watson-machine-intelligence.html<br/>
+
+
+NLP Resources<br/>
+http://pased.soccerlab.polymtl.ca/materials/june-18-2011/PASED-06.18.2011-Software-Tools.pdf<br/>
+https://nlp.linguasys.com/docs/services/<br/>
+https://www.connexor.com/nlplib/?q=node/616<br/>
+https://www.diffbot.com/dev/docs/libraries/<br/>
+https://github.com/diffbot/diffbot-csharp-client<br/>
+http://www.theysay.io/sentiment-analysis-api/<br/>
+
 Machine Learning
 ----------------
 7 awesome data science newsletters to keep you informed
 https://www.dataquest.io/blog/data-science-newsletters/
+
+The Open Source Data Science Masters
+http://datasciencemasters.org/
+
+A Practical Intro to Data Science
+http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-science
 
 9+ Free Online Data Science Resources You Should Know
 http://www.semantikoz.com/blog/9-free-online-data-science-courses/
