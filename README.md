@@ -281,10 +281,17 @@ https://developers.google.com/products/<br/>
 
 NLP
 -----
+
+NLP Information
+https://borel.slu.edu/nlp.html
+
 Stanford NLP videos<br/>
 https://www.youtube.com/watch?v=nfoudtpBV68<br/>
 https://www.youtube.com/watch?v=hwDhO1GLb_4<br/>
 https://www.youtube.com/watch?v=RGLldper5II<br/>
+
+List of 25+ Natural Language Processing APIs
+http://blog.mashape.com/list-of-25-natural-language-processing-apis/
 
 
 Stanford NLP Video Lectures<br/>
@@ -302,6 +309,7 @@ http://www.ibm.com/developerworks/cloud/library/cl-watson-films-bluemix-app/<br/
 
 question answering with webknox<br/>
 https://market.mashape.com/webknox/question-answering#!documentation<br/>
+http://webknox.com/api#play
 
 List of 25+ Natural Language Processing APIs<br/>
 http://blog.mashape.com/list-of-25-natural-language-processing-apis/<br/>
@@ -445,6 +453,13 @@ http://www.theysay.io/sentiment-analysis-api/<br/>
 
 Machine Learning
 ----------------
+apache opensource prediction io
+http://predictionio.incubator.apache.org/
+
+
+AGI -- Artificial General Intelligence
+https://linas.org/agi.html
+
 7 awesome data science newsletters to keep you informed
 https://www.dataquest.io/blog/data-science-newsletters/
 
@@ -920,6 +935,9 @@ http://www.w3schools.com/tags/att_iframe_sandbox.asp
 Natural Language Processing with .net
 ---------------------------------------
 
+Using an open-source unification-based system for CL/NLP teaching
+http://www.aclweb.org/anthology/W01-1512
+
 Natural Language for .NET
 http://nlp.abodit.com/
 
@@ -980,3 +998,51 @@ ETL tools
 
 scriptella ETL 
 http://scriptella.org/
+
+
+SDKs
+-------
+Explore Automatically Generated SDKs
+https://www.sdks.io/Search/FindSDKs?Page=1&Query=
+
+market place for algorithms
+https://algorithmia.com/
+
+Memex (Domain-Specific Search)
+http://opencatalog.darpa.mil/MEMEX.html
+
+First-Look: Enterprise Messaging App Grape’s NLP Engine
+https://techcrunch.com/2016/01/27/first-look-enterprise-messaging-app-grapes-nlp-engine/
+
+Natural Language Processing for MediaWiki: First major release of the Semantic Assistants Wiki-NLP Integration
+http://www.semanticsoftware.info/first-open-source-release-semantic-assistants-wiki-nlp
+
+
+Open source multi-platform NooJ for NLP
+http://cesar.nytud.hu/demos050.pdf
+
+
+NLP Research Links
+https://web.cs.dal.ca/~vlado/nlp/
+
+
+Adapt Intent Parser is an open source software library for converting natural language into machine readable data structures
+https://adapt.mycroft.ai/
+
+Introducing DeepText: Facebook's text understanding engine
+https://code.facebook.com/posts/181565595577955/introducing-deeptext-facebook-s-text-understanding-engine/
+
+
+Google Has Open Sourced SyntaxNet, Its AI for Understanding Language
+http://www.wired.com/2016/05/google-open-sourced-syntaxnet-ai-natural-language/
+
+framenet
+https://framenet.icsi.berkeley.edu/fndrupal/
+
+
+100 Best AI & NLP Resources: Java (Draft)
+http://meta-guide.com/software-meta-guide/100-best-ai-nlp-resources-java
+
+
+Advanced Natural Language Processing Tools for Bot Makers – LUIS, Wit.ai, Api.ai and others
+https://stanfy.com/blog/advanced-natural-language-processing-tools-for-bot-makers/
