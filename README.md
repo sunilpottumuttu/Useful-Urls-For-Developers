@@ -1046,3 +1046,10 @@ http://meta-guide.com/software-meta-guide/100-best-ai-nlp-resources-java
 
 Advanced Natural Language Processing Tools for Bot Makers – LUIS, Wit.ai, Api.ai and others
 https://stanfy.com/blog/advanced-natural-language-processing-tools-for-bot-makers/
+
+
+Microsoft Edge
+-------
+
+Microsoft Edge Platform status
+https://developer.microsoft.com/en-us/microsoft-edge/platform/
