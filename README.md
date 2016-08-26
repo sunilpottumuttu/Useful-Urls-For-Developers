@@ -531,6 +531,54 @@ LeaRning Path on R – Step by Step Guide to Learn Data Science on R<br/>
 http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/<br/>
 
 
+Machine Learning Ideas
+----------------
+
+Machine Learning Repository
+http://archive.ics.uci.edu/ml/index.html
+
+Python Machine Learning Open Source Projects
+http://pansop.com/1039/
+
+machine learning opensource software
+http://www.mloss.org/software/
+
+Open Source Projects
+http://www.mlsecproject.org/
+
+Machine Learning
+Project Topics
+http://web.cs.hacettepe.edu.tr/~ilyas/Courses/BIL712/possibleprojecttopics.pdf
+
+Data Science
+https://www.coursolve.org/browse-needs?query=Data%20Science
+
+data science for social good
+https://dssg.uchicago.edu/projects/
+
+
+Project Ideas and Suggestions (Machine Learning, CS 6375)
+http://www.hlt.utdallas.edu/~vgogate/ml/2012s/projects.html
+
+Class Projects
+http://svivek.com/teaching/machine-learning/fall2016/projects.html#topics
+
+CS 229 Machine Learning
+http://cs229.stanford.edu/projects2014.html
+
+10-701 Machine Learning
+http://www.cs.cmu.edu/~10701/projects.html
+
+Ten Project Proposals
+in Artificial Intelligence 
+http://akira.ruc.dk/~keld/teaching/Projektforslag/AI_Projects.pdf
+
+Project Ideas
+CSE 5215: Machine Learning
+http://www.cse.unt.edu/~ccaragea/cse5215/lectures/project_ideas.pdf
+
+
+
 Good books
 ----------------
 
