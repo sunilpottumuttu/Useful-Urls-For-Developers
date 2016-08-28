@@ -245,6 +245,10 @@ https://market.mashape.com/loudelement/free-natural-language-processing-service<
 http://blog.mashape.com/list-of-50-machine-learning-apis/<br/>
 
 
+recast ai bot
+https://man.recast.ai/#getting-started
+
+
 Research Projects
 --------------------------
 Microsoft FUSE Labs<br/>
@@ -282,6 +286,12 @@ https://developers.google.com/products/<br/>
 NLP
 -----
 
+parsing – Medical information extraction using Python
+http://jenna.pomogi-mne.com/parsing-medical-information-extraction-using-python-stack-overflow-6528508976/
+
+computational linguistics research
+http://www.clips.ua.ac.be/projects/accumulate-acquiring-crucial-medical-information-using-language-technology
+
 NLP Information
 https://borel.slu.edu/nlp.html
 
@@ -306,6 +316,13 @@ http://www.searchenginecaffe.com/2007/03/java-open-source-text-mining-and.html<b
 
 Create a natural language question answering system with IBM Watson and Bluemix services<br/>
 http://www.ibm.com/developerworks/cloud/library/cl-watson-films-bluemix-app/<br/>
+
+Automatic SQL Query Formation from Natural Language
+Query
+http://research.ijcaonline.org/micro/number1/MICRO1802.pdf
+
+dialogs is an open-source module for natural language parsing and interpretation.
+https://www.openrobots.org/wiki/dialogs
 
 question answering with webknox<br/>
 https://market.mashape.com/webknox/question-answering#!documentation<br/>
@@ -1101,3 +1118,20 @@ Microsoft Edge
 
 Microsoft Edge Platform status
 https://developer.microsoft.com/en-us/microsoft-edge/platform/
+
+
+Python
+----
+Parse Natural Language Dates with Dateparser
+https://blog.scrapinghub.com/2015/11/09/parse-natural-language-dates-with-dateparser/
+
+NaLIR: An Interactive Natural Language Interface for
+Querying Relational Databases
+http://dbgroup.eecs.umich.edu/files/SIGMOD14LFb.pdf
+
+adaptjs 
+https://www.npmjs.com/package/adaptjs
+
+
+Creative Web Services with Pattern 
+http://kt.ijs.si/senja_pollak/CC_resources/corpus/Proc_folders/2014/2014_46.txt
