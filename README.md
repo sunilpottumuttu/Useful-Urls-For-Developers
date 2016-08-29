@@ -470,6 +470,10 @@ http://www.theysay.io/sentiment-analysis-api/<br/>
 
 Machine Learning
 ----------------
+
+Machine learning as a service scipy-trainer
+https://pypi.python.org/pypi/cloudml/0.4.2
+
 apache opensource prediction io
 http://predictionio.incubator.apache.org/
 
@@ -1119,6 +1123,15 @@ Microsoft Edge
 Microsoft Edge Platform status
 https://developer.microsoft.com/en-us/microsoft-edge/platform/
 
+Chrome
+------
+Embedding Chrome in your C# App using CefSharp
+http://www.codeproject.com/Tips/1058700/Embedding-Chrome-in-your-Csharp-App-using-CefSharp
+
+
+Full Web Browser in your C# App
+http://cefsharp.github.io/
+
 
 Python
 ----
@@ -1135,3 +1148,19 @@ https://www.npmjs.com/package/adaptjs
 
 Creative Web Services with Pattern 
 http://kt.ijs.si/senja_pollak/CC_resources/corpus/Proc_folders/2014/2014_46.txt
+
+
+
+Azure
+---------
+
+
+What is Serverless Computing? Exploring Azure Functions
+http://www.hanselman.com/blog/
+
+
+
+Blog:
+-----
+Scott Hanselman blog
+http://www.hanselman.com/blog/monthview.aspx
